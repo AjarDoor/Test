@@ -1,0 +1,15 @@
+var ball = 1
+
+if var ball = 1 and input = A then var ball = 2
+
+if var ball = 1 and input = C then var ball = 3
+
+if var ball = 2 and input = B then var ball = 3
+
+if var ball = 2 and input = A then var ball = 1
+
+if var ball = 3 and input = C then var ball = 1
+
+if var ball = 3 and input = B then var ball = 2
+
+else wait then repeat at next input
